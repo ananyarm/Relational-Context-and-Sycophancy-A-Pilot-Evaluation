@@ -1,0 +1,5 @@
+# Anthropic SDK for Claude API access
+anthropic>=0.39.0
+
+# Python-dotenv for managing environment variables
+python-dotenv>=1.0.0
